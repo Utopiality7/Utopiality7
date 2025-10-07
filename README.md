@@ -8,12 +8,12 @@
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed">
-    <img src="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed" alt="GitHub Profile Stats" style="max-width: 100%; width: 49%; height: auto;">
+    <source media="(max-width: 768px)" srcset="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed&cache_seconds=60">
+    <img src="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed&cache_seconds=60" alt="GitHub Profile Stats" style="max-width: 100%; width: 49%; height: auto;">
   </picture>
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000" alt="GitHub Streak Stats" style="max-width: 100%; width: 49%; height: auto;">
+    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000&cache_seconds=60">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000&cache_seconds=60" alt="GitHub Streak Stats" style="max-width: 100%; width: 49%; height: auto;">
   </picture>
 </div>
 
