@@ -9,18 +9,52 @@
 <div align="center">
   <a href="https://github.com/Utopiality7">
     <picture>
-      <source media="(max-width: 768px)" srcset="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed">
-      <img src="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed" alt="GitHub Profile Stats" style="max-width: 100%; width: 49%; height: auto;">
+      <source
+        media="(max-width: 768px)"
+        srcset="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed"
+      />
+      <img
+        src="https://gh-readme-profile.vercel.app/api?username=Utopiality7&theme=github_light_highcontrast&hide=prs_merged,contributed"
+        alt="GitHub Profile Stats"
+        style="width: 49%; height: auto;"
+      />
     </picture>
   </a>
+
   <a href="https://github.com/Utopiality7">
     <picture>
-      <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000" alt="GitHub Streak Stats" style="max-width: 100%; width: 49%; height: auto;">
+      <source
+        media="(max-width: 768px)"
+        srcset="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000"
+      />
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=Utopiality7&card_height=204&border=000000"
+        alt="GitHub Streak Stats"
+        style="width: 49%; height: auto;"
+      />
+    </picture>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Utopiality7">
+    <picture>
+      <source
+        media="(max-width: 768px)"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=Utopiality7&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8"
+      />
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Utopiality7&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8"
+        alt="GitHub Profile Stats"
+        style="width: 98.5%; height: auto;"
+      />
     </picture>
   </a>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"
+  />
 </p>
+
