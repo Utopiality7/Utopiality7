@@ -41,10 +41,10 @@
     <picture>
       <source
         media="(max-width: 768px)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=Utopiality7&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=Utopiality7&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8&height=400"
       />
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Utopiality7&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Utopiality7&theme=github-compact&border_color=000&color=000&title_color=0249B3&radius=8&height=400"
         alt="GitHub Profile Stats"
         style="width: 98.5%; height: auto;"
       />
